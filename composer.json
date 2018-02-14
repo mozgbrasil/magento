@@ -1,0 +1,32 @@
+{
+    "name": "mozgbrasil/magento",
+    "description": "magento",
+    "version": "6.0.0",
+    "type": "magento-module",
+    "keywords": ["cerebrum", "mozg", "magento", "magento-module", "magento2-module"],
+    "homepage": "http://mozg.com.br",
+    "time": "2018-02-14 17:58:18",
+    "license": [
+        "proprietary"
+    ],
+    "authors": [
+        {
+            "name": "Marcio dos Santos Amorim",
+            "email": "suporte@mozg.com.br",
+            "homepage": "http://mozg.com.br",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "suporte@mozg.com.br",
+        "issues": "https://github.com/mozgbrasil/magento/issues",
+        "forum": "http://mozg.com.br/forums/view/1",
+        "wiki": "http://wiki.mozg.com.br",
+        "irc": "irc://irc.freenode.org/mozgbrasil",
+        "source": "https://github.com/mozgbrasil/magento",
+        "docs": "https://github.com/mozgbrasil/magento/wiki",
+        "rss": "http://mozg.com.br/sitemap.xml"
+    },
+    "require" : {
+    }
+}
