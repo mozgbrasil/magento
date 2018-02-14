@@ -8,6 +8,8 @@
 
 Precisa de um projeto para ação de Comércio eletrônico, utilize a melhor plataforma, utilize o Magento, entre em contato com a CEREBRUM nós desenvolvemos o seu projeto
 
+Conheça a nossa trajetória de sucesso construída com muito empenho, compromisso, ética e profissionalismo.
+
 [CEREBRUM](https://www.cerebrum.com.br/ "Magento")
 
 Quer aprender sobre Magento, acesse a Comunidade Magento
