@@ -6,9 +6,15 @@
 
 # Magento
 
-Para o desenvolvimento do seu projeto Magento, entre em contato com
+Precisa de um projeto para ação de Comércio eletrônico, utilize a melhor plataforma, utilize o Magento, entre em contato com a CEREBRUM nós desenvolvemos o seu projeto
 
 [CEREBRUM](https://www.cerebrum.com.br/ "Magento")
+
+Quer aprender sobre Magento, acesse a Comunidade Magento
+
+[Comunidade Magento](https://www.comunidademagento.com.br/ "Magento")
+
+Precisa de módulos para Magento, instale os módulos da MOZG em seu projeto Magento
 
 [MOZG](http://mozg.com.br/catalogo/ "Magento")
 
