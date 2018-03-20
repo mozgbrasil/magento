@@ -1,8 +1,7 @@
 {
     "name": "mozgbrasil/magento",
-    "description": "magento",
-    "version": "6.0.0",
-    "type": "magento-module",
+    "description": "magento project",
+    "version": "1.0.0",
     "keywords": ["cerebrum", "mozg", "magento", "magento-module", "magento2-module"],
     "homepage": "http://mozg.com.br",
     "time": "2018-02-14 17:58:18",
